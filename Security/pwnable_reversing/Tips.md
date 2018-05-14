@@ -2,13 +2,13 @@
 
 ## libc DB 가 필요할 때
 
-http://libcdb.com/
+[http://libcdb.com/](http://libcdb.com/)
 
 이 사이트에서 libc 데이터를 찾을 수 있다.
 
 또는,
 
-https://github.com/niklasb/libc-database
+[https://github.com/niklasb/libc-database](https://github.com/niklasb/libc-database)
 
 이 레포지토리를 사용해도 된다.
 
@@ -34,4 +34,8 @@ NX Bit 가 걸려있을 때 `mprotect` 함수를 사용하면 메모리 페이�
 
 쉘코드 찾을 때에는 이 사이트를 이용하면 좋다.
 
-http://shell-storm.org/shellcode/
+[http://shell-storm.org/shellcode/](http://shell-storm.org/shellcode/)
+
+## Online Assembler & disassembler
+
+[http://shell-storm.org/online/Online-Assembler-and-Disassembler/](http://shell-storm.org/online/Online-Assembler-and-Disassembler/)
